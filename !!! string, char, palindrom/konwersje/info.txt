@@ -1,0 +1,1 @@
+https://forum.pasja-informatyki.pl/6868/zamiana-string-char-na-int

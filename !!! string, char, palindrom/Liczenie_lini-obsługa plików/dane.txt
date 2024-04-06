@@ -1,0 +1,5 @@
+pies
+kot
+elefant
+nietoperz
+snake
