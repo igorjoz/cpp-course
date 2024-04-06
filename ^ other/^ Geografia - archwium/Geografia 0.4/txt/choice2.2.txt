@@ -1,0 +1,4 @@
+ta opcja nie jest jeszcze gotowa
+
+'b' - cofniecie sie
+'q' - wyjscie z programu

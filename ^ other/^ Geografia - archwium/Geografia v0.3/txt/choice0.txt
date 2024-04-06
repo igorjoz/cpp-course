@@ -1,0 +1,7 @@
+Program geograficzny
+
+Dzialania na:
+1: Dlugosci geograficznej (czas na swiecie - czas sloneczny, strefowy)
+2: Szerokosci geograficznej (gorowanie slonca; czas wschodu i zachodu)
+
+"q" - wyjscie z programu

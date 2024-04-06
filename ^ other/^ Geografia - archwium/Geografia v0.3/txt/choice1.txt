@@ -1,0 +1,6 @@
+Podaj cyfre opcji, ktora odpowiada twojej sytuacji:
+1: Znam polozenie punktu A i punktu B - OBLICZANIE ROZNICY CZASU SLONECZNEGO
+2: Znam polozenie punktu A i punktu B oraz godzine w punkcie B - OBLICZANIE KONKRETNEJ GODZINY W PUNKCIE A
+3: Znam roznice czasu miedzy punktem A i punktem B - OBLICZANIE ROZNICY ODLEGLOSCI KATOWEJ
+
+"q" - wyjscie z programu
