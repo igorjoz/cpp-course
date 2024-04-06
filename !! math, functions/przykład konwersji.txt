@@ -1,0 +1,49 @@
+#include <iostream>
+#include <string>
+#include <fstream>
+#include <cstdlib>
+#include <sstream>
+
+using namespace std;
+
+string tresc[501], linia;
+int odc[501];
+
+int i, l;
+
+int main()
+{
+    fstream plik;
+
+    plik.open("dane_trojkaty.txt", ios::in);
+
+    if (plik.good()==true)
+    {
+        while (!plik.eof())
+        {
+            i++;
+            getline(plik, linia);
+            tresc[i]=linia;
+
+            istringstream iss(tresc[i]);
+            iss>>odc[i];
+            cout<<i<<". liczba to: "<<odc[i]<<endl;
+        }
+    }
+
+    cout<<"\n\n\nZestawy liczb mogacych stworzyc trojakt prostokatny:\n";
+    for (int k=1; k<501; k++)
+    {
+        if ((odc[k]*odc[k])+(odc[k+1]*odc[k+1])==(odc[k+2]*odc[k+2]) || (odc[k+1]*odc[k+1])+(odc[k+2]*odc[k+2])==(odc[k]*odc[k]) || (odc[k+2]*odc[k+2])+(odc[k]*odc[k])==(odc[k+1]*odc[k+1]))
+        {
+            l++;
+            cout<<l<<". zestaw: "<<odc[k]<<", "<<odc[k+1]<<", "<<odc[k+2]<<"\n";
+            //k+=2;
+        }
+    }
+
+    cout<<"\n\nNacisnij Enter...\n";
+    getchar();
+
+    return 0;
+}
