@@ -1,0 +1,6 @@
+książka telefoniczna w C++
+
+wyszukiwanie po telefonie: tel --> imię i nazwisko
+wyszukiwanie po imieniu i nazwisku: imię i nazwisko --> tel
+
+dopisywanie danych przez użytkownika
