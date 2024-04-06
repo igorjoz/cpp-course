@@ -1,0 +1,19 @@
+1.: Fubpnrezvkravdeztcrdrezvjqpwifnkfnpqnrezvucrdezv
+Wynik: odkywanietajemniclamanieszyfrowtowyzwaniedlamnie
+Sposób: Szyfr Cezara, przesunięcie o 17 w prawo
+
+2.: zoadjgbshpuqzsltjxsft
+Wynik: serwiskryptograficzny
+Sposób: Szyfr Cezara, przesunięcie o 1 w prawo, najpierw odwrócenie
+
+3.: Kilhgvzotlibgnbpibkgltizurxamvmrvazkvdmrzqzlwkldrvwmrvtlyvakrvxavmhgdz
+Wynik: prostealgorytmykryptograficzneniezapewniajaodpowiedniegobezpieczenstwa
+Sposób: Atbash
+
+4.: Zaeinaramsaydwpdzkceirocohksauzlzwismaeasezinjge
+Wynik: Zapraszamdoumieszczaniakolejnychzagadekwserwisie
+Sposób: kwadrat 7x7, czytane po kolei kolumnami od góry do dołu
+
+5.: ???
+Nie mam pojęcia co z tym zrobić :D
+Wygląda trochę jak szyfr Marii Stuart.
